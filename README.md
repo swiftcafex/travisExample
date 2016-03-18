@@ -1,3 +1,3 @@
 # travisExample
 
-![](https://travis-ci.org/[your-username]/MovingHelper.svg?branch=master)
+![](https://travis-ci.org/swiftcafex/travisExample.svg?branch=master)
